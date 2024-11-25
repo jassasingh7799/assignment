@@ -1,0 +1,17 @@
+INFO:root:This is my first logging info
+INFO:root:This is my first logging info
+ERROR:root:This is my first logging error
+INFO:root:This is my first logging info
+ERROR:root:This is my first logging error
+WARNING:root:This is my warning msg
+CRITICAL:root:this is my critical msg
+INFO:root:This is my first logging info
+ERROR:root:This is my first logging error
+WARNING:root:This is my warning msg
+CRITICAL:root:this is my critical msg
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 3540ee87-77a5-4ff7-98d6-19cef8da527a
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg

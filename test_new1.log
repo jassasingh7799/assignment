@@ -1,0 +1,54 @@
+2024-11-22 16:53:45,653 DEBUG This is my debug msg
+2024-11-22 16:53:45,654 INFO This is my info msg
+2024-11-22 16:53:45,654 WARNING This is my warning msg
+2024-11-22 16:53:57,093 DEBUG This is my debug msg
+2024-11-22 16:53:57,095 INFO This is my info msg
+2024-11-22 16:53:57,095 WARNING This is my warning msg
+2024-11-22 16:54:05,613 DEBUG This is my debug msg
+2024-11-22 16:54:05,614 INFO This is my info msg
+2024-11-22 16:54:05,614 WARNING This is my warning msg
+2024-11-22 16:56:01,169 DEBUG This is my debug msg
+2024-11-22 16:56:01,171 INFO This is my info msg
+2024-11-22 16:56:01,172 WARNING This is my warning msg
+2024-11-22 17:14:41,077 ERROR No such comm target registered: jupyter.widget.control
+2024-11-22 17:14:41,080 WARNING No such comm: 1c78def6-10e7-4269-9094-139ecaadfb85
+2024-11-22 17:14:41,080 DEBUG Current comms: []
+2024-11-22 17:18:06,024 ERROR No such comm target registered: jupyter.widget.control
+2024-11-22 17:18:06,026 WARNING No such comm: 683df857-8085-4189-9ea4-0669273df4e0
+2024-11-22 17:18:06,026 DEBUG Current comms: []
+2024-11-22 17:27:53,791 INFO Processing individual element of the list 1
+2024-11-22 17:27:53,791 INFO Processing individual element of the list 2
+2024-11-22 17:27:53,791 INFO Processing individual element of the list 72
+2024-11-22 17:27:53,791 INFO Processing individual element of the list Jasmeet
+2024-11-22 17:27:53,791 INFO Processing individual element of the list Kawaljit
+2024-11-22 17:27:53,791 INFO Processing individual element of the list [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO Processing individual element of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO Processing individual element of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO Processing individual element of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO Processing individual element of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO Processing individual element of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:27:53,792 INFO final result is integer list is [1, 2, 72, 1, 2, 3, 78] and strig list is ['Jasmeet', 'Kawaljit', 'apple']
+2024-11-22 17:28:57,481 INFO Processing individual element of the list 1
+2024-11-22 17:28:57,482 INFO Processing individual element of the list 2
+2024-11-22 17:28:57,482 INFO Processing individual element of the list 72
+2024-11-22 17:28:57,482 INFO Processing individual element of the list Jasmeet
+2024-11-22 17:28:57,482 INFO Processing individual element of the list Kawaljit
+2024-11-22 17:28:57,482 INFO Processing individual element of the list [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO Processing individual element 1 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO Processing individual element 2 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO Processing individual element 3 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO Processing individual element apple of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO Processing individual element 78 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:28:57,483 INFO final result is integer list is [1, 2, 72, 1, 2, 3, 78] and strig list is ['Jasmeet', 'Kawaljit', 'apple']
+2024-11-22 17:31:26,332 INFO Processing individual element of the list 1
+2024-11-22 17:31:26,333 INFO Processing individual element of the list 2
+2024-11-22 17:31:26,333 INFO Processing individual element of the list 72
+2024-11-22 17:31:26,333 INFO Processing individual element of the list Jasmeet
+2024-11-22 17:31:26,333 INFO Processing individual element of the list Kawaljit
+2024-11-22 17:31:26,333 INFO Processing individual element of the list [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,333 INFO Processing individual element 1 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,334 INFO Processing individual element 2 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,334 INFO Processing individual element 3 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,334 INFO Processing individual element apple of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,334 INFO Processing individual element 78 of the sublist [1, 2, 3, 'apple', 78]
+2024-11-22 17:31:26,334 INFO final result is integer list is [1, 2, 72, 1, 2, 3, 78] and strig list is ['Jasmeet', 'Kawaljit', 'apple']
